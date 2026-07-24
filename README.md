@@ -1,2 +1,2 @@
 # platform_build
-Build Android for Platform
+Android 4.0 Ice Cream Sandwich
